@@ -1,2 +1,2 @@
-# Zeta /ˈzeɪ.tə/
+# Zeta Project
 
