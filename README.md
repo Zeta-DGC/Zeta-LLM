@@ -18,3 +18,7 @@ I decided on this license because it makes it easy and free for anyone to use.
 ## Official/Recognized Models
 - [Zeta-1 by DiamondGotCat](https://huggingface.co/DiamondGotCat/Zeta-1): Original Model for Customization
 - [Zeta-1-GGUF by mradermacher](https://huggingface.co/mradermacher/Zeta-1-GGUF): Quantized Model ready to use (Thanks for mradermacher!)
+
+## Contributors
+- [Sabale302](https://github.com/Sabale302) in Zeta-Tool: Thanks for sharing your ideas!
+- [mradermacher] in Zeta: Thanks for converting it to GGUF!
