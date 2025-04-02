@@ -21,4 +21,4 @@ I decided on this license because it makes it easy and free for anyone to use.
 
 ## Contributors
 - [Sabale302](https://github.com/Sabale302) in Zeta-Tool: Thanks for sharing your ideas!
-- [mradermacher] in Zeta: Thanks for converting it to GGUF!
+- [mradermacher](https://huggingface.co/mradermacher) in Zeta: Thanks for converting it to GGUF!
