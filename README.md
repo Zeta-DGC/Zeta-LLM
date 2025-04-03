@@ -1,5 +1,8 @@
+https://github.com/user-attachments/assets/cc66c0cb-407a-4b02-ba14-fec494cf58f3
+
 # Zeta - LLM created by everyone
 Zeta is divided into three repositories.
+
 - Anyone can create LLMs using the Zeta-Tool.
 - Zeta-Dataset is the publication location of datasets for the Zeta-Tool.
 - Azuki-Format is the format of datasets for the Zeta-Tool.
