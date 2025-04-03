@@ -23,9 +23,10 @@ No special tools or architecture changes are required.
 
 If you can run the original LLM, you can also run the LLM with NLoRAT.
 
-## Official/Recognized Models
+## Official/Recognized Models (Hugging Face)
 - [Zeta-1 by DiamondGotCat](https://huggingface.co/DiamondGotCat/Zeta-1): Original Model for Customization
 - [Zeta-1-GGUF by mradermacher](https://huggingface.co/mradermacher/Zeta-1-GGUF): Quantized Model ready to use (Thanks for mradermacher!)
+- [Zeta-1 on Ollama by DiamondGotCat](https://ollama.com/DiamondGotCat/Zeta-1): Easy to Use with Ollama Command (`ollama run DiamondGotCat/Zeta-1:latest`)
 
 ## Contributors
 - [Sabale302](https://github.com/Sabale302) in Zeta-Tool: Thanks for sharing your ideas!
