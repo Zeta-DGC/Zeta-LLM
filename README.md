@@ -1,3 +1,6 @@
+
+![Zeta Logo](https://github.com/user-attachments/assets/727a59fa-7a20-488c-aa31-27878fb1f2be)
+
 # Zeta - LLM created by everyone
 Zeta is divided into three repositories.
 
