@@ -7,9 +7,13 @@ Zeta is divided into three repositories.
 
 ## Next Relase: Zeta 2
 **🛠️ Zeta 2 is training...**
+
 On a single Mac Mini with 32GB of RAM, Zeta 2 is being carefully trained from scratch.
+
 It's not running on a massive cluster — just a single machine, 24/7, with dedication.
+
 Estimated training time: 400+ hours.
+
 This is what it means to build a Large Language Model with love — not scale.
 
 ## License
