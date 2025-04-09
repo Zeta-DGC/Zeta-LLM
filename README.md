@@ -12,7 +12,7 @@ Zeta is divided into three repositories.
 **🛠️ Zeta 2 has During break...**
 
 It's difficult to train Zeta 2 on a single Mac Mini with 32GB RAM.
-We are currently considering donations.
+I are currently considering donations.
 Please wait for updates.
 
 ## License
