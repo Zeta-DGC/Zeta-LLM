@@ -8,12 +8,9 @@ Zeta is divided into three repositories.
 - Zeta-Dataset is the publication location of datasets for the Zeta-Tool.
 - Azuki-Format is the format of datasets for the Zeta-Tool.
 
-## Next Relase: Zeta 2
-**🛠️ Zeta 2 has During break...**
-
-It's difficult to train Zeta 2 on a single Mac Mini with 32GB RAM.
-I are currently considering donations.
-Please wait for updates.
+## New Relase: Zeta 2
+**🛠️ Zeta 2 has Released!**
+Please visit Release Tab.
 
 ## License
 It's MIT licensed.
