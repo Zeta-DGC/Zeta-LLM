@@ -1,16 +1,27 @@
 
 ![Zeta Wall](https://github.com/user-attachments/assets/44e029c3-2205-476b-baba-53bb8585f2cc)
 
-# Zeta - LLM created by everyone
+# Zeta Project
 Zeta is divided into three repositories.
 
 - Anyone can create LLMs using the Zeta-Tool.
 - Zeta-Dataset is the publication location of datasets for the Zeta-Tool.
 - Azuki-Format is the format of datasets for the Zeta-Tool.
 
-## New Relase: Zeta 2
-**🛠️ Zeta 2 has Released!**
-Please visit Release Tab.
+## Official/Recognized Models
+### Zeta 2
+- **(Safetensor)** [Zeta-2 by DiamondGotCat](https://huggingface.co/DiamondGotCat/Zeta-2): Original Model for Customization
+- **(GGUF)** [Zeta-2-GGUF by mradermacher](https://huggingface.co/mradermacher/Zeta-2-GGUF): Quantized Model ready to use (Thanks for mradermacher!)
+- **(Ollama)** [Zeta-2 on Ollama by DiamondGotCat](https://ollama.com/DiamondGotCat/Zeta-2): Easy to Use with Ollama Command (`ollama run DiamondGotCat/Zeta-2:f16`)
+
+### Zeta 1
+- **(Safetensor)** [Zeta-1 by DiamondGotCat](https://huggingface.co/DiamondGotCat/Zeta-1): Original Model for Customization
+- **(GGUF)** [Zeta-1-GGUF by mradermacher](https://huggingface.co/mradermacher/Zeta-1-GGUF): Quantized Model ready to use (Thanks for mradermacher!)
+- **(Ollama)** [Zeta-1 on Ollama by DiamondGotCat](https://ollama.com/DiamondGotCat/Zeta-1): Easy to Use with Ollama Command (`ollama run DiamondGotCat/Zeta-1:latest`)
+
+## Contributors
+- [Sabale302](https://github.com/Sabale302) in Zeta-Tool: Thanks for sharing your ideas!
+- [mradermacher](https://huggingface.co/mradermacher) in Zeta: Thanks for converting it to GGUF!
 
 ## License
 It's MIT licensed.
@@ -30,18 +41,3 @@ You just train the model as-is, using your own dataset (e.g. in Azuki Format).
 No special tools or architecture changes are required.
 
 If you can run the original LLM, you can also run the LLM with NLoRAT.
-
-## Official/Recognized Models
-### Zeta 2
-- **(Safetensor)** [Zeta-2 by DiamondGotCat](https://huggingface.co/DiamondGotCat/Zeta-2): Original Model for Customization
-- **(GGUF)** [Zeta-2-GGUF by mradermacher](https://huggingface.co/mradermacher/Zeta-2-GGUF): Quantized Model ready to use (Thanks for mradermacher!)
-- **(Ollama)** [Zeta-2 on Ollama by DiamondGotCat](https://ollama.com/DiamondGotCat/Zeta-2): Easy to Use with Ollama Command (`ollama run DiamondGotCat/Zeta-2:f16`)
-
-### Zeta 1
-- **(Safetensor)** [Zeta-1 by DiamondGotCat](https://huggingface.co/DiamondGotCat/Zeta-1): Original Model for Customization
-- **(GGUF)** [Zeta-1-GGUF by mradermacher](https://huggingface.co/mradermacher/Zeta-1-GGUF): Quantized Model ready to use (Thanks for mradermacher!)
-- **(Ollama)** [Zeta-1 on Ollama by DiamondGotCat](https://ollama.com/DiamondGotCat/Zeta-1): Easy to Use with Ollama Command (`ollama run DiamondGotCat/Zeta-1:latest`)
-
-## Contributors
-- [Sabale302](https://github.com/Sabale302) in Zeta-Tool: Thanks for sharing your ideas!
-- [mradermacher](https://huggingface.co/mradermacher) in Zeta: Thanks for converting it to GGUF!
