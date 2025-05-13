@@ -1,5 +1,5 @@
 
-![Zeta Wall](https://github.com/user-attachments/assets/44e029c3-2205-476b-baba-53bb8585f2cc)
+https://github.com/user-attachments/assets/6ba50a7c-0b1a-4ead-adde-d608f310264a
 
 # Zeta Project
 Zeta is divided into three repositories.
