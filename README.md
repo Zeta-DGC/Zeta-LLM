@@ -8,24 +8,17 @@ Zeta is divided into three repositories.
 - Zeta-Dataset is the publication location of datasets for the Zeta-Tool.
 - Azuki-Format is the format of datasets for the Zeta-Tool.
 
-## Official/Recognized Models
-### Zeta 2
-- **(Safetensor)** [Zeta-2 by DiamondGotCat](https://huggingface.co/DiamondGotCat/Zeta-2): Original Model for Customization
-- **(GGUF)** [Zeta-2-GGUF by mradermacher](https://huggingface.co/mradermacher/Zeta-2-GGUF): Quantized Model ready to use (Thanks for mradermacher!)
-- **(Ollama)** [Zeta-2 on Ollama by DiamondGotCat](https://ollama.com/DiamondGotCat/Zeta-2): Easy to Use with Ollama Command (`ollama run DiamondGotCat/Zeta-2:f16`)
+## Official Models [[Release Tab]](https://github.com/DiamondGotCat/Zeta/releases)
 
-### Zeta 1
-- **(Safetensor)** [Zeta-1 by DiamondGotCat](https://huggingface.co/DiamondGotCat/Zeta-1): Original Model for Customization
-- **(GGUF)** [Zeta-1-GGUF by mradermacher](https://huggingface.co/mradermacher/Zeta-1-GGUF): Quantized Model ready to use (Thanks for mradermacher!)
-- **(Ollama)** [Zeta-1 on Ollama by DiamondGotCat](https://ollama.com/DiamondGotCat/Zeta-1): Easy to Use with Ollama Command (`ollama run DiamondGotCat/Zeta-1:latest`)
+### [Zeta 2](https://github.com/DiamondGotCat/Zeta/releases/tag/zeta-2) (2025-05_01)
+| 464M Params | MIT License | Official GGUF Available (Quantized by mradermacher) |
+
+### [Zeta 1](https://github.com/DiamondGotCat/Zeta/releases/tag/zeta-1) (2025-04_01)
+| 405M Params | MIT License | Official GGUF Available (Quantized by mradermacher) |
 
 ## Contributors
 - [Sabale302](https://github.com/Sabale302) in Zeta-Tool: Thanks for sharing your ideas!
 - [mradermacher](https://huggingface.co/mradermacher) in Zeta: Thanks for converting it to GGUF!
-
-## License
-It's MIT licensed.
-I decided on this license because it makes it easy and free for anyone to use.
 
 ## Repos
 - [Zeta-Tool](https://github.com/DiamondGotCat/Zeta-Tool): Create Your Own LLM using NLoRAT
