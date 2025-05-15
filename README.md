@@ -23,8 +23,8 @@ Zeta is divided into three repositories.
 - [mradermacher](https://huggingface.co/mradermacher) in Zeta: Thanks for converting it to GGUF!
 
 ## Repos
-- [Zeta-Tool](https://github.com/DiamondGotCat/Zeta-Tool): Create Your Own LLM using NLoRAT
-- [Zeta-Dataset](https://github.com/DiamondGotCat/Zeta-Dataset/releases): Datasets for Zeta-Tool
+- [Zeta-Tool](https://github.com/Zeta-LLM/Zeta-Tool): Create Your Own LLM using NLoRAT
+- [Zeta-Dataset](https://github.com/Zeta-LLM/Zeta-Dataset/releases): Datasets for Zeta-Tool
 - [Azuki-Format(AzukiF)](https://github.com/DiamondGotCat/Azuki-Format): Dataset Format for Zeta-Tool
 
 (NOTE: Hinode-AI, and Azuki-AI is Marged to Zeta Project)
