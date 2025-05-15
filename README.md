@@ -3,6 +3,7 @@ https://github.com/user-attachments/assets/6ba50a7c-0b1a-4ead-adde-d608f310264a
 
 # Zeta
 | [Zeta Official X Account](https://x.com/Zeta_LLM/) |
+
 Zeta is divided into three repositories.
 
 - Anyone can create LLMs using the Zeta-Tool.
