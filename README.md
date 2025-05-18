@@ -1,4 +1,4 @@
-![Zeta-4-Model-Image](https://github.com/user-attachments/assets/4253d7d4-fff3-430b-9587-d40963dd3190)
+![Zeta-4-Model-Image](https://github.com/user-attachments/assets/b5ad513a-4dc2-4ae6-b69e-12a8651c8107)
 
 # Zeta
 | [Zeta Official X Account](https://x.com/Zeta_LLM/) |
