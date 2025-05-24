@@ -1,4 +1,4 @@
-![DiamondGotCat 20 Wall](https://github.com/user-attachments/assets/5d5939fb-21b5-43d0-af73-9f9180729285)
+![wall-2_v20-1](https://github.com/user-attachments/assets/2b43cbce-4a67-43c7-add4-d5aa68059d0e)
 
 # Zeta
 | [Zeta Official X Account](https://x.com/Zeta_LLM/) |
