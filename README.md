@@ -12,13 +12,13 @@ Zeta is divided into three repositories.
 ## Official Models [[Release Tab]](https://github.com/DiamondGotCat/Zeta/releases)
 
 ### [Zeta 4](https://github.com/DiamondGotCat/Zeta/releases/tag/zeta-4) (2025-05_03)
-| 464M Params | MIT License | Official GGUF Available (Quantized by mradermacher) |
+**(Latest)** | 464M Params | MIT License | Official GGUF Available (Quantized by mradermacher) |
 
 ### [Zeta 3](https://github.com/DiamondGotCat/Zeta/releases/tag/zeta-3) (2025-05_02)
 | 464M Params | MIT License | Official GGUF Available (Quantized by mradermacher) |
 
 ### [Zeta 2](https://github.com/DiamondGotCat/Zeta/releases/tag/zeta-2) (2025-05_01)
-| 464M Params | MIT License | Official GGUF Available (Quantized by mradermacher) |
+**(Stable)** | 464M Params | MIT License | Official GGUF Available (Quantized by mradermacher) |
 
 ### [Zeta 1](https://github.com/DiamondGotCat/Zeta/releases/tag/zeta-1) (2025-04_01)
 | 405M Params | MIT License | Official GGUF Available (Quantized by mradermacher) |
