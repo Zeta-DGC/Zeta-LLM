@@ -1,4 +1,4 @@
-![wall_v20-1](https://github.com/user-attachments/assets/030b73ba-13a5-4e96-8ca7-fcdec566d8eb)
+![Zeta Thumbnail](https://github.com/user-attachments/assets/e577bf51-9603-42cc-89ea-5ffce974e046)
 
 # Zeta
 | [Zeta Official X Account](https://x.com/Zeta_LLM/) |
