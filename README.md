@@ -1,6 +1,6 @@
 ![Zeta Thumbnail](https://github.com/user-attachments/assets/e577bf51-9603-42cc-89ea-5ffce974e046)
 
-# Zeta
+# Zeta LLM
 | [Zeta Official X Account](https://x.com/Zeta_LLM/) |
 
 Zeta is divided into three repositories.
