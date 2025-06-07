@@ -23,7 +23,7 @@ That was how I came to know about you, mradermacher.
 Until then, I hadn’t thought very positively about my own activities.
 
 Later, I launched the Zeta Project.
-Shortly after releasing Zeta 1, I saw another example of conversion to GGUF format.
+Shortly after releasing Zeta 1, I saw another conversion to GGUF format.
 That became a turning point—I gained a bit more confidence and started becoming more active.
 
 Eventually, I succeeded in creating its successor, Zeta 2.
