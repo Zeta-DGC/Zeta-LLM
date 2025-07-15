@@ -1,4 +1,5 @@
-![Zeta Thumbnail](https://github.com/user-attachments/assets/e577bf51-9603-42cc-89ea-5ffce974e046)
+
+<img width="1920" height="1080" alt="Zeta Header Rounded" src="https://github.com/user-attachments/assets/9327c0d9-d30e-432c-a951-73a780f68fae" />
 
 # Zeta LLM
 | [Zeta Official X Account](https://x.com/Zeta_LLM/) |
