@@ -1,5 +1,5 @@
 
-<img width="1920" height="1080" alt="Zeta Header Rounded" src="https://github.com/user-attachments/assets/9327c0d9-d30e-432c-a951-73a780f68fae" />
+<img width="1920" height="1080" alt="Zeta Header" src="https://github.com/user-attachments/assets/c3edf425-5838-4927-91d6-67192cd9c907" />
 
 # Zeta LLM
 | [Zeta Official X Account](https://x.com/Zeta_LLM/) |
