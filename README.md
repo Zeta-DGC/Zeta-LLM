@@ -1,5 +1,5 @@
 
-<img width="1920" alt="Zeta Header Black v26" src="https://github.com/user-attachments/assets/7574a331-0fdb-42db-84f1-47692beb7004" />
+<img width="1920" alt="zeta_full_black" src="https://github.com/user-attachments/assets/e0cf639f-53b5-4baa-b417-cd957cb83b23" />
 
 > [!IMPORTANT]
 > I am developing various projects, and since I manage, maintain, and update all of them myself, there may be times when I can't attend to each project individually.
